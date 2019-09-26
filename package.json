@@ -1,0 +1,29 @@
+{
+  "name": "versionthree",
+  "version": "1.0.0",
+  "description": "version three",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreybonajos/versionthree.git"
+  },
+  "keywords": [
+    "versionthree"
+  ],
+  "author": "allofus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreybonajos/versionthree/issues"
+  },
+  "homepage": "https://github.com/jeffreybonajos/versionthree#readme",
+  "dependencies": {
+    "next": "^9.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
